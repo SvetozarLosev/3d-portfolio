@@ -11,7 +11,7 @@ My name is **Svetozar Losev**, and I am a **first-year Mechanical Engineering st
 This repository showcases my projects created in **SolidWorks**, including 3D models, technical drawings, assemblies, and engineering documentation. The purpose of this portfolio is to document my learning progress and demonstrate my engineering and CAD skills.
 
 </td>
-<td width="250">
+<td width="300">
 
 <img src="assets/profile.jpg" width="220">
 
