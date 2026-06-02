@@ -17,8 +17,6 @@ This repository showcases my projects created in **SolidWorks**, including 3D mo
 
 ## Projects
 
-## Projects
-
 | Preview                                                      | Project                                               | Description                                                      |
 | ------------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------------------------------- |
 | <img src="previews/Alignment_Catch_Preview.png" width="300"> | [Alignment Catch](projects/Alignment_Catch/README.md) | A mechanical fixture designed to hold and align a mating component. |
