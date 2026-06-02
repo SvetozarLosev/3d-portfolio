@@ -40,3 +40,8 @@ This repository showcases my projects created in **SolidWorks**, including 3D mo
 * SolidWorks
 * Git
 * GitHub
+
+## Contact
+
+* Email: [jollysmoose@gmail.com](mailto:jollysmoose@gmail.com)
+* Telegram: [@LosevSvetozar](https://t.me/LosevSvetozar)
