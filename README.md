@@ -17,11 +17,12 @@ This repository showcases my projects created in **SolidWorks**, including 3D mo
 
 ## Projects
 
-| Preview     | Project   | Description                           |
-| ----------- | --------- | ------------------------------------- |
-| Coming Soon | Project 1 | Mechanical part created in SolidWorks |
-| Coming Soon | Project 2 | Assembly and technical drawing        |
-| Coming Soon | Project 3 | Practice CAD project                  |
+## Projects
+
+| Preview                                                      | Project                                               | Description                                                      |
+| ------------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------------------------------- |
+| <img src="previews/Alignment_Catch_Preview.png" width="300"> | [Alignment Catch](projects/Alignment_Catch/README.md) | A mechanical fixture designed to hold and align a mating component. |
+
 
 ## Software
 
