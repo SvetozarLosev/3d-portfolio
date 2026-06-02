@@ -1,5 +1,7 @@
 # CAD Portfolio
 
+<img src="assets/profile.jpg" width="200" alt="Profile Photo">
+
 Welcome to my engineering portfolio.
 
 My name is **Svetozar Losev**, and I am a **first-year Mechanical Engineering student**. I am interested in mechanical design, automation, and CAD technologies.
