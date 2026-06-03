@@ -28,7 +28,7 @@ Mechanical housing modeled in SolidWorks from a 2D engineering drawing. The proj
 | Maximum Diameter | 127.47 mm |
 | Central Bore Diameter | 30 mm |
 
-## Section View
+## Project gallery
 
 <img src="section-view-1.PNG" width="32%">
 <img src="section-view-2.PNG" width="32%">
