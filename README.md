@@ -20,7 +20,7 @@ This repository showcases my projects created in **SolidWorks**, including 3D mo
 | Preview                                                      | Project                                               | Description                                                      |
 | ------------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------------------------------- |
 | <img src="previews/Alignment_Catch_Preview.png" width="300"> | [Alignment Catch](projects/Alignment_Catch/README.md) | A mechanical fixture designed to hold and align a mating component. |
-
+| <img src="previews/Mechanical_Housing_CAD_Model_Preview.PNG" width="300"> | [Mechanical Housing CAD Model](projects/Mechanical_Housing_CAD_Model/README.md) | A SolidWorks mechanical housing model created from a technical drawing using revolved features, patterns, cuts, and section views.|
 
 ## Software
 
