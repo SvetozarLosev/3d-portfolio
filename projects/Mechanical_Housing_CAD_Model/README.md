@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview](../../previews/Mechanical_Housing_CAD_Model_Preview.PNG)
+<img src="../../previews/Mechanical_Housing_CAD_Model_Preview.PNG" width="32%">
 
 ## Overview
 
