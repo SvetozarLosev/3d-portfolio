@@ -30,11 +30,11 @@ Mechanical housing modeled in SolidWorks from a 2D engineering drawing. The proj
 
 ## Section View
 
-![Section View 1](projects/Mechanical_Housing_CAD_Model/section-view-1.png)
+![Section View 1](section-view-1.png)
 
-![Section View 2](projects/Mechanical_Housing_CAD_Model/section-view-2.png)
+![Section View 2](section-view-2.png)
 
-![Section View 3](projects/Mechanical_Housing_CAD_Model/section-view-3.png)
+![Section View 3](section-view-3.png)
 
 ### Technical Drawing
 
