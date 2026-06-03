@@ -38,7 +38,7 @@ Mechanical housing modeled in SolidWorks from a 2D engineering drawing. The proj
 
 ### Technical Drawing
 
-![Drawing](projects/Mechanical Housing CAD Model/Mechanical_Housing_CAD_Model_Drawing.jpg)
+![Drawing](Mechanical_Housing_CAD_Model_Drawing.jpg)
 
 ## Skills Demonstrated
 
