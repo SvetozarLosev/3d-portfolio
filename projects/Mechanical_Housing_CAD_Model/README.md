@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview](previews\Mechanical_Housing_CAD_Model_Preview.PNG)
+![Preview](previews/Mechanical_Housing_CAD_Model_Preview.PNG)
 
 ## Overview
 
@@ -28,13 +28,17 @@ Mechanical housing modeled in SolidWorks from a 2D engineering drawing. The proj
 
 ## Project Gallery
 
-### Section View
+## Section View
 
-![Section View](projects\Mechanical Housing CAD Model/section-view-1.png)(projects\Mechanical Housing CAD Model/section-view-2.png)(projects\Mechanical Housing CAD Model/section-view-3.png)
+![Section View 1](projects/Mechanical_Housing_CAD_Model/section-view-1.png)
+
+![Section View 2](projects/Mechanical_Housing_CAD_Model/section-view-2.png)
+
+![Section View 3](projects/Mechanical_Housing_CAD_Model/section-view-3.png)
 
 ### Technical Drawing
 
-![Drawing](projects\Mechanical Housing CAD Model\Mechanical_Housing_CAD_Model_Drawing.jpg)
+![Drawing](projects/Mechanical Housing CAD Model/Mechanical_Housing_CAD_Model_Drawing.jpg)
 
 ## Skills Demonstrated
 
