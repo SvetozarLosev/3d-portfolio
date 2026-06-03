@@ -21,24 +21,24 @@ Mechanical housing modeled in SolidWorks from a 2D engineering drawing. The proj
 
 ## Technical Specifications
 
-* Material: Structural Steel (S235)
-* Overall Length: 154 mm
-* Maximum Diameter: 127.47 mm
-* Central Bore Diameter: 30 mm
+| Parameter | Value |
+|------------|---------|
+| Material | S235 Structural Steel |
+| Length | 154 mm |
+| Maximum Diameter | 127.47 mm |
+| Central Bore Diameter | 30 mm |
 
 ## Project Gallery
 
 ## Section View
 
-![Section View 1](section-view-1.PNG)
-
-![Section View 2](section-view-2.PNG)
-
-![Section View 3](section-view-3.PNG)
+<img src="section-view-1.PNG" width="32%">
+<img src="section-view-2.PNG" width="32%">
+<img src="section-view-3.PNG" width="32%">
 
 ### Technical Drawing
 
-![Drawing](Mechanical_Housing_CAD_Model_Drawing.jpg)
+<img src="Mechanical_Housing_CAD_Model_Drawing.jpg" width="80%">
 
 ## Skills Demonstrated
 
